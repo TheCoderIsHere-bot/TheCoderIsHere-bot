@@ -5,7 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecoderishere-bot" alt="thecoderishere-bot" /></a> </p>
 
+- 🔭 I’m currently looking for jobs **in data analytics field as a fresher**
+
 - 📫 How to reach me **yatinsatheeshan@gmail.com**
+
+- 📄 My resume [https://github.com/TheCoderIsHere-bot/Resume/blob/ad64c3809a974fb38899c4f9a2d5c6884facb685/Yatin_Satheeshan_2024%20aug.pdf](https://github.com/TheCoderIsHere-bot/Resume/blob/ad64c3809a974fb38899c4f9a2d5c6884facb685/Yatin_Satheeshan_2024%20aug.pdf)
+
+- ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
